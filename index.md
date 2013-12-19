@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {{ title }}
-tagline: {{ tagline }}
+title: Friends of Smart-M3
+tagline: students loving RDF triples
 ---
 {% include JB/setup %}
 
