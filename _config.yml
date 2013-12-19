@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Friends of Smart M3
+title : Friends of Smart-M3
 tagline: Students loving RDF triples
 author :
   name : Name Lastname
