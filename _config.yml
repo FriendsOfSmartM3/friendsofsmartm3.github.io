@@ -11,11 +11,11 @@ pygments: true
 title : Friends of Smart-M3
 tagline: Students loving RDF triples
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Friends of Smart-M4
+  email : none@friendsofsmartm3.github.io
+  github : FriendsOfSmartM3
+#  twitter : username
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
