@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart-M3 projects
-tagline: Students creating cool stuff
+tagline: students creating cool stuff
 ---
 {% include JB/setup %}
 
