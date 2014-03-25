@@ -5,7 +5,7 @@ tagline: students loving RDF triples
 ---
 {% include JB/setup %}
 
-<p>Welcome to <strong>Friends of Smart-M3</strong> if you published a student group project just send us a pull request :)</p>
+<p>Welcome to <strong>Friends of Smart-M3</strong> if you published a student <a href="{{ BASE_PATH }}projects.html">group project</a> just send us a pull request :)</p>
 
 <ul class="posts">
   {% for post in site.posts %}
